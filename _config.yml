@@ -1,0 +1,9 @@
+# basic options
+title: Terms of Use
+author: Astro Apps
+email: askastroapps@gmail.com
+github_username:  astroapps
+
+# Build settings
+markdown: kramdown
+theme: minima
