@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terms of Use
+title: Inspire Numerology Pro
 ---
 
 This is an about page about this awesome site.
